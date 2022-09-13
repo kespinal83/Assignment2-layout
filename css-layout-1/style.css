@@ -65,7 +65,7 @@ body {
     height: 700px;
     margin-top: 0px;
     line-height: 100%;
-    color: gray;
+    color: black;
     font-family: 'Inter';
     font-weight: bold;
     font-size: 3em;
@@ -93,4 +93,8 @@ body {
 
   h6 {
     margin: 15%;
+  }
+
+  span {
+    color:plum;
   }
